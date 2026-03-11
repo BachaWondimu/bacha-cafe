@@ -1,0 +1,17 @@
+# mac
+.DS_Store
+
+# environment
+.env
+
+# IntelliJ
+.idea
+*.iml
+
+# node
+node_modules
+
+# build
+target
+dist
+build
